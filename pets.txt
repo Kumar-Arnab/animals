@@ -2,3 +2,5 @@ kali
 chutki
 zemo
 hoppon
+tommy
+lucy
